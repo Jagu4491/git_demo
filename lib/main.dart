@@ -23,7 +23,7 @@ class myhomepage extends StatelessWidget{
   Widget build(BuildContext context) {
   return Scaffold(
     appBar: AppBar(
-      title: Text('Myapp'),
+      title: Text('myapp'),
     ),
   );
   }
